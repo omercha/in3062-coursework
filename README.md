@@ -6,6 +6,10 @@ This repository contains Jupyter notebooks for the IN3062 Introduction to Artifi
 1. Click **Code** → **Download ZIP**
 2. Extract the ZIP folder to a location on your computer
 
+## Dataset
+In the case where the `Dataset/` folder is empty, download the application_record.csv and credit_record.csv from the link below and place them into the `Dataset/` folder
+Link: https://www.kaggle.com/datasets/rikdifos/credit-card-approval-prediction
+
 ## Requirements
 - Python 3.x installed
 - Jupyter Notebook or JupyterLab installed  
