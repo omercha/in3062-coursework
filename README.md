@@ -12,9 +12,9 @@ This repository contains Jupyter notebooks for the IN3062 Introduction to Artifi
   (If needed: `pip install notebook` or `pip install jupyterlab`)
 
 You will also need the libraries used in the notebooks (pandas, numpy, scikit-learn, matplotlib, seaborn, joblib).
-
+## Open Jupyter Notebook
 ## Notebook run order (important)
-Open "in3062-coursework" and please run the notebooks in this order:
+Open "in3062-coursework" and **please** run the notebooks in this order:
 
 1. **01_data_preparation_and_baseline.ipynb**  
    - Loads the raw CSV files  
